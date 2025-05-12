@@ -1,1 +1,1 @@
-# Sunucu-ba-lant-l-bitki-projesi
+# Sunucu-baglantili-bitki-projesi
